@@ -17,6 +17,21 @@
 ## Screenshots 📸
 
 
+<div style="text-align: center;">
+  <table style="margin: 0 auto; text-align: center;">
+    <tr>
+      <thead style="text-align: center;"><b>Desktop & Mobile</b></thead>
+      <td><img src="https://github.com/anubhav-auth/Bookpedia/blob/master/assets/desklist.png"></td>
+      <td><img src="https://github.com/anubhav-auth/Bookpedia/blob/master/assets/deskdetail.png"></td>
+      <td><img src="https://github.com/anubhav-auth/Bookpedia/blob/master/assets/deskfav.png"></td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/anubhav-auth/Bookpedia/blob/master/assets/phnlist.jpg" width=200></td>
+      <td><img src="https://github.com/anubhav-auth/Bookpedia/blob/master/assets/phndetail.jpg" width=200></td>
+      <td><img src="https://github.com/anubhav-auth/Bookpedia/blob/master/assets/phnfav.jpg" width=200></td>
+    </tr>
+  </table>
+</div>
 
 ---
 
